@@ -1,0 +1,74 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"image/pic004.jpg",
+			"iReader/index.html",
+			"image/pic003.jpg",
+			"css/mui.min.css",
+			"image/pic005.jpg",
+			"image/pic001.jpg",
+			"image/pic002.jpg"
+		],
+		"refer": [
+			"iReader/index.html"
+		]
+	},
+	"iReader/index.html": {
+		"resources": [
+			"image/wood2.jpg",
+			"index.html",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/mui.js",
+			"image/pic004.jpg",
+			"image/pic003.jpg",
+			"image/pic001.jpg",
+			"image/pic002.jpg",
+			"image/pic005.jpg",
+			"iReader/mylist.html",
+			"js/mui.min.js",
+			"iReader/page.html",
+			"/iReader/page.html",
+			"iReader/page2.html",
+			"image/pic007.jpg",
+			"image/pic009.jpg",
+			"image/pic008.jpg",
+			"image/pic006.jpg"
+		],
+		"refer": [
+			"index.html",
+			"iReader/page.html",
+			"/iReader/page.html",
+			"iReader/page2.html"
+		]
+	},
+	"iReader/page.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"iReader/index.html",
+			"iReader/test.html"
+		],
+		"refer": [
+			"iReader/index.html",
+			"iReader/test.html"
+		]
+	},
+	"iReader/page2.html": {
+		"resources": [
+			"iReader/index.html"
+		],
+		"refer": [
+			"iReader/index.html"
+		]
+	},
+	"iReader/test.html": {
+		"resources": [
+			"iReader/page.html"
+		],
+		"refer": [
+			"iReader/page.html"
+		]
+	}
+}
